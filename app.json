@@ -28,7 +28,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> ✦MALVIN-XD✦ ACTIVE AND ALIVE⚡"
+      "value": "> ✦Hiruva✦ ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
@@ -84,7 +84,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🎉👀 Seen by Nexus Tech🚀🔥*"
+      "value": "*🎉👀 Seen by HIRUVA Tech🚀🔥*"
     }, 
 
     "OWNER_NAME": {
@@ -123,7 +123,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© POWERED BY ✦NEXUS TECH✦*"
+      "value": "*© POWERED BY ✦HIRUVA✦*"
     },
 
       "DELETE_LINKS": {
