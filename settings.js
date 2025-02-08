@@ -32,10 +32,10 @@ OWNER_NAME: process.env.OWNER_NAME || "✦HIRUVA🪀✦",
 DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦HIRUNA ᴛᴇᴄʜ✦ ɪɴᴄ*",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "false",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bddvfr.jpg",
+MENU_IMG: process.env.MENU_IMG || "false",
 // dont change menu image
 
 LIVE_MSG: process.env.LIVE_MSG || "> ✦HIRUVA✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
